@@ -21,7 +21,7 @@
 }
 
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-repeat: no-repeat; 
     background-position: center; 
     background-size: contain;
@@ -244,7 +244,7 @@
 
 .hero-section{
     height: 260px;
-    background-image: url("hero_image_current.jpg");
+    background-image: url("images/hero_image_current.jpg");
     background-size: cover;
 }
 /* hero section start ends here */
