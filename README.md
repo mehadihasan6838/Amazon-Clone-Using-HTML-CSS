@@ -1,2 +1,2 @@
 Project Link
-https://mehadihasanariful.github.io/Amazon-clone-using-HTML-CSS/
+ https://mehadihasanariful.github.io/Amazon-Clone-Using-HTML-CSS/
