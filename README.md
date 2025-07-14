@@ -1,2 +1,2 @@
 Project Link
- https://mehadihasanariful.github.io/Amazon-Clone-Using-HTML-CSS/
+ https://amazon-clone6838.netlify.app
